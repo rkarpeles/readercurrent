@@ -1,0 +1,31 @@
+body {
+	height:100%;
+	margin:0;
+	padding:0;
+	background:url('/images/bg-stripes.png') repeat scroll 0 0 transparent;
+	}
+
+#wrap {
+	background:url('/images/teaser-header.png') repeat-x; 
+	overflow:hidden;
+	min-height: 100%;
+	width:100%;	
+	margin:0;
+	padding:0;
+	}
+	
+#phone {
+	font-family:Georgia, 'Times New Roman', 'Times', serif;
+	font-size:18px;
+	color:#fff;
+	margin:20px 30px;
+	float:right;
+	}
+	
+#teaser {
+	background:url('/images/teaser-image.png') no-repeat;
+	height:500px;
+	width:625px;
+	margin:120px auto;
+	}
+	
