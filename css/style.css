@@ -46,11 +46,11 @@ h2 {
 	
 h3 {
 	font-family:'PT Serif', Georgia, 'Times New Roman', 'Times', Serif;
-	font-size:16px;
+	font-size:17px;
 	color:#4d4d4d;
 	font-weight:normal;
 	font-style:italic;
-	margin:10px 0 5px;
+	margin:10px 0 10px;
 	}		
 	
 strong.green {
@@ -420,7 +420,6 @@ a.bx-prev {
 	float:left;
 	width:670px;
 	padding:0 15px;
-	line-height: 1.4;
 	}
 	
 .int-left-column {
